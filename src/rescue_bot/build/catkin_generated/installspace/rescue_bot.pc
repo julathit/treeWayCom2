@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: rescue_bot
+Description: Description of rescue_bot
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

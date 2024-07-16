@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rtx/GIT/catkin_ws/src/rescue_bot/build/devel/setup.sh

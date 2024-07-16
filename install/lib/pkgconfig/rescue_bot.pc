@@ -1,0 +1,8 @@
+prefix=/home/rtx/GIT/catkin_ws/install
+
+Name: rescue_bot
+Description: Description of rescue_bot
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
